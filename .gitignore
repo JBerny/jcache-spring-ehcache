@@ -1,0 +1,12 @@
+.*
+
+# maven
+target
+
+# VS Code
+.classpath
+.project
+
+# Idea
+.idea
+**/*.iml
